@@ -5,7 +5,6 @@
 <p align="center"><img src="data/galaxy.gif" width="100%" height="100%"/></p>
 <h6 align="center">Image obtained from <a href="https://sci.esa.int/web/hubble/-/hubble-surveys-gigantic-galaxy-heic2002">European Space Agency - ESA.</a></h6>
   
-### Models implemented by <a href="https://github.com/AnneLivia">Anne Livia</a>.
 
 ## Dataset Information:
 
